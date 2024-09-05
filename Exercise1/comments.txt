@@ -1,0 +1,20 @@
+* <!DOCTYPE html> : Declares the document type and version of Html .
+
+* <html> : The root element of the document .
+
+* <head> : contains meta-information about the document , such as the title .
+
+* <title> : Specifies the title of the web page shown in the browser tab .
+
+* <body> : Contains the content of the document including text , images , and links .
+
+* <header> : Defines a header for the document or a section .
+
+* <nav> : Represents navigation links .
+
+* <section> : Groups content into sections .
+
+* <form> : Used to Create an interactive form for user input .
+
+
+//Mahmoud Dawoud
